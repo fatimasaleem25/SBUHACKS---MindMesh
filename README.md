@@ -170,6 +170,8 @@ MIT
 ## 👤 Author
 
 Fatima Saleem
+Kevin Cortes
+Oscar Chung
 
 ## 🙏 Acknowledgments
 
